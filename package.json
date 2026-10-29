@@ -1,0 +1,14 @@
+{
+  "name": "fnos-shopping-ag",
+  "version": "0.1.0",
+  "description": "跨平台购物搜索聚合中转：拼多多方舟商品搜索 + 什么值得买海纳 API/MCP，专为 AI 助手（如 Muse）提供统一购物搜索接口",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["pdd", "smzdm", "shopping", "proxy", "mcp", "ai"],
+  "license": "MIT"
+}
